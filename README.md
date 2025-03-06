@@ -1,12 +1,4 @@
-# Laboratory Work: Graph Algorithms and Decision Tree Classifier
-
-Леник Нікіта
-
-Бугір Єлизавета
-
----
-
-## Overview
+# Overview
 
 This project covers the implementation and analysis of several key graph algorithms and a machine learning algorithm. The objective is to understand the underlying concepts and apply them to real-world problems. The algorithms implemented in this work include:
 
